@@ -1,0 +1,28 @@
+
+body {  
+    background-color: rgb(255, 155, 213);
+    font-family: Arial;
+}
+
+h1 { color: rgb(167, 7, 79);
+}
+
+h2 {
+    color: rgb(194, 71, 137);
+}
+
+p { 
+    color: black;
+}
+
+a{ 
+    color: rgb(67, 18, 112);
+}
+
+img {
+    border: 6px solid rgb(212, 4, 132);
+}
+h3 {
+    color: rgb(178, 14, 85);
+}
+
